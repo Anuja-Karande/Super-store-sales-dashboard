@@ -15,3 +15,5 @@
   - Total Profit: $175K
   - Total Quantity Sold: 22K
   - Average Ship Days: 4
+
+Check out Linkedin post [Linkedin](https://www.linkedin.com/posts/activity-7202653112984047616-2jPk?utm_source=share&utm_medium=member_desktop)
